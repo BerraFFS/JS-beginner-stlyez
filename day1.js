@@ -1,7 +1,5 @@
 function setup() {
   createCanvas(400, 400);
-  let g = color('green');
-  let r = color('red');
 }
 
 function draw() {
@@ -20,3 +18,5 @@ function draw() {
     }
   }
 }
+
+//BerraFFS </3
